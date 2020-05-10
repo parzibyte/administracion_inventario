@@ -1,7 +1,8 @@
 # administracion_inventario
  Administración de artículos de inventario con Laravel
+ ![Administración de artículos con Laravel](https://parzibyte.me/blog/wp-content/uploads/2020/05/Art%C3%ADculos-con-fotos-Software-en-Laravel.png)
 # Tutorial
-
+https://parzibyte.me/blog/2020/05/10/sistema-administracion-inventario-laravel/
 # Instalación
 * Clonar repositorio
 * Instalar composer
