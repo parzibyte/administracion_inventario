@@ -8,6 +8,7 @@ https://parzibyte.me/blog/2020/05/10/sistema-administracion-inventario-laravel/
 * Instalar composer
 * Instalar dependencias con `composer install`
 * Configurar env; es decir, crear un archivo llamado **.env** tomando como ejemplo **.env.example** y configurar las credenciales
+* Crea una clave de encriptación con `php artisan key:generate`
 * Crear la base de datos que se indicó en **.env**
 * Realiza la migración con `php artisan migrate`
 * Ahora en MySQL crea un usuario dentro de la tabla; que puede ser con:
